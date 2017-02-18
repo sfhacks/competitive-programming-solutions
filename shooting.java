@@ -59,7 +59,7 @@ public class Solution {
         
         public int compareTo(Object other) {
             Tree otherTree = (Tree) other;
-            return (int) efficiency - (int) otherTree.efficiency;
+            return (int) Math.signum(efficiency - otherTree.efficiency);
         }
     }
 }

@@ -2,4 +2,4 @@
 
 Solutions for the competetive programming problems
 
-[First Contest] (https://www.hackerrank.com/sfhacks-1)
+[First Contest](https://www.hackerrank.com/sfhacks-1)
